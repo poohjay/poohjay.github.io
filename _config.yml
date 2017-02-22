@@ -3,3 +3,7 @@ description: Nothing to see here. Try http://www.poohjay.com
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+collections: 
+  posts:
+    output: true
+permalink: pretty
